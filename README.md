@@ -1,1 +1,2 @@
-# Vision-por-computadora
+# Vision por computadora
+### I am currently studying this area ...
